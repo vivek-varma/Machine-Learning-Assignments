@@ -1,1 +1,1 @@
-# Machine-Learning-Assignments
+Assignments for Machine Learning Course by Andrew Ng(Coursera).
